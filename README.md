@@ -1,1 +1,3 @@
 # cat-vs-dog-classification
+#  This project helps the user to differentiate between the images of a dog and a cat. The process of classfying using a Convolutional Neural Network (CNN) is a common task in computer vision. The dataset is in the format of a zip file containing 2 folders : Cats and Dogs. Further each folder contains 2500 images of xats and 2500 images od dogs.
+# Here's the Dataset link :https://www.kaggle.com/datasets/salad...
